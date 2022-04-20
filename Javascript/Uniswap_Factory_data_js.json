@@ -1,0 +1,136 @@
+{
+    "data": {
+        "pairDayDatas": [
+            {
+                "date": 1647561600,
+                "dailyVolumeToken0": "3017670.919976636348593935",
+                "dailyVolumeToken1": "1039.012808621510620679",
+                "dailyVolumeUSD": "2996456.869729392757314795814730894",
+                "reserveUSD": "25841832.41592260482696344662611425",
+                "token0": {
+                    "symbol": "DAI"
+                },
+                "token1": {
+                    "symbol": "WETH"
+                }
+            },
+            {
+                "date": 1647648000,
+                "dailyVolumeToken0": "1495778.272457338668914285",
+                "dailyVolumeToken1": "504.78782441950028468",
+                "dailyVolumeUSD": "1491185.286928306768390600563978583",
+                "reserveUSD": "25957974.74289907381135344047422846",
+                "token0": {
+                    "symbol": "DAI"
+                },
+                "token1": {
+                    "symbol": "WETH"
+                }
+            },
+            {
+                "date": 1647734400,
+                "dailyVolumeToken0": "1609670.096207030654035477",
+                "dailyVolumeToken1": "557.743487128988077166",
+                "dailyVolumeUSD": "1608269.509623917264854892109396681",
+                "reserveUSD": "25619471.76316167413758860972403157",
+                "token0": {
+                    "symbol": "DAI"
+                },
+                "token1": {
+                    "symbol": "WETH"
+                }
+            },
+            {
+                "date": 1647820800,
+                "dailyVolumeToken0": "1443252.543883712398619483",
+                "dailyVolumeToken1": "497.258355980972763106",
+                "dailyVolumeUSD": "1442326.799316242302826981719193025",
+                "reserveUSD": "25788086.82861989708037541862955699",
+                "token0": {
+                    "symbol": "DAI"
+                },
+                "token1": {
+                    "symbol": "WETH"
+                }
+            },
+            {
+                "date": 1647907200,
+                "dailyVolumeToken0": "1804310.898970009167280727",
+                "dailyVolumeToken1": "602.173808688711216599",
+                "dailyVolumeUSD": "1802828.896639776809179434297651976",
+                "reserveUSD": "26130327.99856654565999818515996572",
+                "token0": {
+                    "symbol": "DAI"
+                },
+                "token1": {
+                    "symbol": "WETH"
+                }
+            },
+            {
+                "date": 1647993600,
+                "dailyVolumeToken0": "2604271.182305024439367034",
+                "dailyVolumeToken1": "902.333069959847963902",
+                "dailyVolumeUSD": "2665380.823125334614036337871054472",
+                "reserveUSD": "26462575.11247360586711841190222687",
+                "token0": {
+                    "symbol": "DAI"
+                },
+                "token1": {
+                    "symbol": "WETH"
+                }
+            },
+            {
+                "date": 1648080000,
+                "dailyVolumeToken0": "2119003.501372914718511618",
+                "dailyVolumeToken1": "730.333126638749774602",
+                "dailyVolumeUSD": "2190566.522431389838077809485441758",
+                "reserveUSD": "26828559.10346219148072305641488259",
+                "token0": {
+                    "symbol": "DAI"
+                },
+                "token1": {
+                    "symbol": "WETH"
+                }
+            },
+            {
+                "date": 1648166400,
+                "dailyVolumeToken0": "8187812.829356860925998406",
+                "dailyVolumeToken1": "2276.244690233484305185",
+                "dailyVolumeUSD": "7289666.712390519803482562845559437",
+                "reserveUSD": "27095094.80919007644485003611969624",
+                "token0": {
+                    "symbol": "DAI"
+                },
+                "token1": {
+                    "symbol": "WETH"
+                }
+            },
+            {
+                "date": 1648252800,
+                "dailyVolumeToken0": "638049.425338108477645671",
+                "dailyVolumeToken1": "204.2179453223221553",
+                "dailyVolumeUSD": "637994.7121383175973733063500111754",
+                "reserveUSD": "26984907.65876619673641903398373284",
+                "token0": {
+                    "symbol": "DAI"
+                },
+                "token1": {
+                    "symbol": "WETH"
+                }
+            },
+            {
+                "date": 1648339200,
+                "dailyVolumeToken0": "416430.068024315916233112",
+                "dailyVolumeToken1": "132.17759901239706446",
+                "dailyVolumeUSD": "416165.097844933228174218072620339",
+                "reserveUSD": "26811467.82404554252919702902620604",
+                "token0": {
+                    "symbol": "DAI"
+                },
+                "token1": {
+                    "symbol": "WETH"
+                }
+            }
+        ]
+    }
+}
