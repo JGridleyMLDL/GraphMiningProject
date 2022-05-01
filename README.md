@@ -1,8 +1,8 @@
 # Graph Mining Project
 Rensselaer Polytechnic Institute<br>
-Jared Gridley<br>
 Spring 2022 (Slota)
 <br>
+Jared Gridley<br>
 <br>
 
 ### Data 
